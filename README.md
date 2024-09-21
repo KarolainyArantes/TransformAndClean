@@ -54,3 +54,11 @@ Nesta seção, descrevo os métodos que apliquei aos dados durante o processo de
 
  ## Nota Pessoal 
  Estou muito feliz em completar este desafio e aplicar os conhecimentos obtidos no Bootcamp de Data Analytics com Power BI, pretendo continuar usando essas ferramentas em meus futuros projetos como cientista de dados, sei que a exploração, transformação e limpeza dos dados exigem tempo do profissional para bons resultados de análise e modelos de machine learning.
+
+
+
+### connect with me: 
+
+<a href = "https://www.linkedin.com/in/karolainy-de-sousa-arantes-560801303/" target="_blank">
+<img align= "center" alt="Karolainy-linkedin" height= "30" width src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"
+style="max=width:100%;">
